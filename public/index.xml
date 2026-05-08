@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 21:16:50 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 22:43:21 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Article Img</title>
+      <link>http://localhost:1313/posts/my-article-img/</link>
+      <pubDate>Fri, 08 May 2026 22:43:21 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-article-img/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/2026/83ec0a0d-5acc-4898-b872-58215b1dcb1b.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
